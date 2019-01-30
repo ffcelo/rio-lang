@@ -1,2 +1,2 @@
-# Rio;; Lang
+# Rio;;
 Linguagem de programação
